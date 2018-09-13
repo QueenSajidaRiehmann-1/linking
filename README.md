@@ -1,2 +1,2 @@
 # linking
-linking settings
+linking settings are given below.
